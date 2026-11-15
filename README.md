@@ -1,3 +1,29 @@
+# ScreenCoder
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+ScreenCoder — Turn any UI screenshot into clean, editable HTML/CSS with full control. Fast, accurate, and easy to customize.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+把任意 UI 截图转成干净可编辑的 HTML 与 CSS。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 # ScreenCoder: Advancing Visual-to-Code Generation for Front-End Automation via Modular Multimodal Agents
 
 <div align="center">
